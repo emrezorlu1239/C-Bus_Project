@@ -1,0 +1,23 @@
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.exe.config
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.exe
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.pdb
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.AssemblyReference.cache
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Form1.resources
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Properties.Resources.resources
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.GenerateResource.cache
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.CoreCompileInputs.cache
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.exe
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.pdb
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.exe.config
+C:\Users\emrez\source\repos\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Register_Form.resources
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.exe.config
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.exe
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\bin\Debug\C#_SQL_Project.pdb
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.AssemblyReference.cache
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Form1.resources
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Properties.Resources.resources
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C__SQL_Project.Register_Form.resources
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.GenerateResource.cache
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.csproj.CoreCompileInputs.cache
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.exe
+C:\Users\emrez\OneDrive\Belgeler\Amk deneme nokası\C#_SQL_Project\C#_SQL_Project\obj\Debug\C#_SQL_Project.pdb
