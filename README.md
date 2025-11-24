@@ -37,6 +37,14 @@ Allows users to securely remove a passenger record by providing their TC ID and 
 
 Upon successful deletion, the corresponding seat is instantly marked Green (Available) and the data is permanently removed from the database.
 
+🔍 Snapshot of Data
+Your application's data when viewed in SQL Server looks like this :
+
+Id,name,surname,no,tc,gender
+1,Ahmet,Yılmaz,1,12345678901,Male
+2,Mehmet,Şentürk,5,134562378901,Male
+3,Ayşe,Küçük,10,14563278901,Female
+
 🛠️ Tech Stack
 Frontend/GUI: C# Windows Forms (WinForms)
 
